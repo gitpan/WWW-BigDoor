@@ -13,7 +13,7 @@ name: WWW-BigDoor
 provides:
   WWW::BigDoor:
     file: lib/WWW/BigDoor.pm
-    version: v0.1.0
+    version: v0.1.1
   WWW::BigDoor::Attribute:
     file: lib/WWW/BigDoor/Attribute.pm
   WWW::BigDoor::Award:
@@ -68,4 +68,4 @@ requires:
   URI: 0
   UUID::Tiny: 0
   version: 0
-version: v0.1.0
+version: v0.1.1

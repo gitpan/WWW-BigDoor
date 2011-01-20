@@ -1,4 +1,4 @@
-BigDoor version 0.1.0
+BigDoor version 0.1.1
 
 This package provides both low-level procedural (WWW::BigDoor) and object-oriented
 (WWW::BigDoor::Resource object hierarchy) interfaces to BigDoor REST API.
@@ -32,19 +32,19 @@ DEPENDENCIES
 
 The module requires the following modules:
 
-·   REST::Client
-·   JSON
-·   URI
-·   Digest::SHA
-·   UUID::Tiny
+-   REST::Client
+-   JSON
+-   URI
+-   Digest::SHA
+-   UUID::Tiny
 
 Test suite requires additional modules:
 
-·   Test::Most
-·   Test::MockObject
-·   Test::MockModule
-·   Test::NoWarnings
-·   Hook::LexWrap
+-   Test::Most
+-   Test::MockObject
+-   Test::MockModule
+-   Test::NoWarnings
+-   Hook::LexWrap
 
 COPYRIGHT AND LICENCE
 

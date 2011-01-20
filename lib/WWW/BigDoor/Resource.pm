@@ -187,7 +187,7 @@ WWW::BigDoor::Resource - provides a perl OO interface for BigDoor's REST API.
 
 =head1 VERSION
 
-This document describes BigDoor version 0.1.0
+This document describes BigDoor version 0.1.1
 
 =head1 SYNOPSIS
 
@@ -458,7 +458,7 @@ redistributions in binary form.
 all uses, copies, modifications, derivative works, mergers, publications,
 distributions, sublicenses and sales shall also connect to the BigDoor API and
 shall not be used to connect with any API, software or service that competes
-with BigDoor’s API, software and services.
+with BigDoor's API, software and services.
 
 - Except as contained in this notice, this license does not grant you rights to
 use BigDoor Media, Inc. or any contributors; name, logo, or trademarks.
